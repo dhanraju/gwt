@@ -17,7 +17,7 @@ git push -u origin master
 ...or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-References:
+References:  
 https://www.tutorialspoint.com/gwt/gwt_environment_setup.htm  
 https://www.javacodegeeks.com/2012/03/gwt-custom-button-using-uibinder.html  
 http://www.vogella.com/tutorials/GWT/article.html  
